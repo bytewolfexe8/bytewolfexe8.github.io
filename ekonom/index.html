@@ -15,11 +15,14 @@
 
     <body>
         <form class="list">
+            <label>CN = CFN + VN</label>
             <input id="pocet" type="text" placeholder="Pocet produktov">
             <input id="cn" type="text" placeholder="Celkove naklady">
             <input id="cfn" type="text" placeholder="Celkove fixne naklady">
             <input id="c1p" type="text" placeholder="Cena 1 produktu">
             <input id="pz" type="text" placeholder="Planovany zisk">
+            <label>NB = CFN / (Cena 1 prod. - Var. naklady na 1 prod.)</label>
+            <label>Y = NB * ((CFN + Planovany zisk) / CFN)</label>
 
         </form>
         <button onclick="ex()">Vypocitaj</button>
