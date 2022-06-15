@@ -1,0 +1,21 @@
+1. Zaklady cislicovej techniky, kombinacne logicke obvody
+- EKN :
+vysvetlite podnik a podnikanie a pravne formy podniku u vyrobcu nejakeho produktu
+- definicia podniku
+- kto moze podnikat na SR
+- co je podnikanie
+- ake zakony upravuju podnikanie (zivnostensky zakonnik, obchodny zakonnik, ...)
+- formy podnikov z hladiska zakonov (podnik jednotlivca, obchodne splocnosti, druzstva, osobitne formy)
+
+2. Sekvencne logicke obvody
+- EKN :
+vyrobok + charakteristika + funkcie
+popiste ake financne zdroje moze vyuzivat vyrobca vyrobkov
+
+3. Linearne a nelinearne suciastky
+- EKN :
+aktivne a pasivne operacie obchodnych bank
+
+4. zakladne zakony elektrotechniky, riesenie el. obvodov
+- EKN :
+charakterizujte zakladne ekonomicke otazky a ako ich riesia rozne typy ekonomik
